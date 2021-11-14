@@ -1,0 +1,17 @@
+body {
+  overflow-x: hidden;
+}
+h1 {
+  text-align: center;
+}
+.images {
+  margin-top: 400px;
+}
+img {
+  width: 800px;
+  height: 500px;
+  display: block;
+  object-fit: cover;
+  margin: 0 auto 300px;
+  border: 10px solid;
+}
